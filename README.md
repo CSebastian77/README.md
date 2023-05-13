@@ -4,6 +4,6 @@
 ## Discord
 [![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/EZxgeqJpJB)
 ## Administration System
-[![](https://img.shields.io/badge/System_Administrator-0049FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorizeclient_id=1017746478829162556&permissions=8&scope=bot%20applications.commands)
+[![](https://img.shields.io/badge/System_Administrator-0049FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1017746478829162556&permissions=940048566&scope=applications.commands%20bot)
 ## Sebastian's Github Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=CSebastian77&show_icons=true&theme=transparent)
